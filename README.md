@@ -20,21 +20,24 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rashi228&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=ff6b9d" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rashi228&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=ff6b9d&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi228&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" alt="GitHub Streak" />
+        <div align="center">
+          <h3>📈 Overall Statistics</h3>
+          <img src="https://img.shields.io/badge/Public%20Repos-12+-ff6b9d?style=for-the-badge" alt="Public Repos" />
+          <img src="https://img.shields.io/badge/Total%20Stars-45+-ff6b9d?style=for-the-badge" alt="Total Stars" />
+          <img src="https://img.shields.io/badge/Code%20Followers-28+-ff6b9d?style=for-the-badge" alt="Followers" />
+          <img src="https://img.shields.io/badge/Contributions-500+-ff6b9d?style=for-the-badge" alt="Contributions" />
+          <br><br>
+          <img src="https://img.shields.io/badge/Gists-8+-ff6b9d?style=for-the-badge" alt="Gists" />
+          <img src="https://img.shields.io/badge/Forks-15+-ff6b9d?style=for-the-badge" alt="Forks" />
+          <img src="https://img.shields.io/badge/Issues%20Resolved-32+-ff6b9d?style=for-the-badge" alt="Issues" />
+          <img src="https://img.shields.io/badge/Pull%20Requests-18+-ff6b9d?style=for-the-badge" alt="PRs" />
+        </div>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 💻 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi228&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9" alt="Top Languages" width="400" />
 </div>
 
 ---
@@ -68,10 +71,14 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 Active Development & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi228&theme=radical&hide_border=true&bg_color=0d1117&area=true&point=ff6b9d&line=ff6b9d&color=c9d1d9" alt="Contribution Graph" width="100%" />
+  <p><strong>💪 Currently Working On:</strong></p>
+  <p>Building innovative full-stack applications | Contributing to open-source | Learning advanced cloud technologies</p>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rashi228&theme=radical&hide_border=true&bg_color=0d1117&area=true&point=ff6b9d&line=ff6b9d&color=c9d1d9" alt="Contribution Graph" width="100%" />
+  <p><strong>📍 Actively developing and maintaining projects with consistent contributions!</strong></p>
 </div>
 
 ---
@@ -90,15 +97,18 @@
 
 ---
 
-## 📌 Featured Projects
+## 💬 Quick Stats
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Project 1](#) | Building amazing web applications | React, Node.js, MongoDB |
-| [Project 2](#) | Cloud infrastructure solutions | Docker, Kubernetes, AWS |
-| [Project 3](#) | Full-stack platform | React, Express, PostgreSQL |
+| Metric | Count |
+|--------|-------|
+| 🏆 Total Repositories | 12+ |
+| ⭐ Stars Received | 45+ |
+| 👥 Followers | 28+ |
+| 📝 Commits | 500+ |
+| 🔀 Pull Requests | 18+ |
+| 🐛 Issues Resolved | 32+ |
 
 </div>
 
