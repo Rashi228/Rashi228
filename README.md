@@ -54,13 +54,8 @@ I enjoy exploring emerging technologies, participating in hackathons, and contin
 <p align="center">
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rashi228" target="_blank">
+  <a href="https://www.linkedin.com/in/rashigupta2201/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <!-- Twitter -->
-  <a href="https://twitter.com/rashi228" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
   </a>&nbsp;&nbsp;
 
   <!-- Email -->
